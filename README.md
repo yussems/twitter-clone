@@ -1,3 +1,6 @@
+# Video üzerinden yapılmıştır
+video kaynağı [YouTube](https://www.youtube.com/watch?v=rWIYIASCkqc&list=PLDq0IUpYONvTVIah8Ji48ZmAei5rSgPYJ&index=7&ab_channel=codingwithdidem)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
